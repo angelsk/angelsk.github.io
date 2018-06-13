@@ -1,8 +1,6 @@
 # Angel on Xbox
 
-## Who are you?
-
-Hi, I'm Jo, otherwise known as angelsk.
+Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 ## Where you can find me
 
@@ -13,13 +11,13 @@ Hi, I'm Jo, otherwise known as angelsk.
 * [That Podcast Thing](http://www.thatpodcastthing.co.uk)
 * [Buy stuff with my logo on it](https://teespring.com/angel-on-xbox)
 
-## Streaming Schedule
+## Mixer Streaming Schedule
 
 I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and generally at some time most weekends; check my stream status for the next slot (and game). 
 
 Please follow and sign up to be notified when I go live :) (And thanks for watching).
 
-## But I missed it?!
+### But I missed it?!
 
 I shall be uploading any videos of my streams to my YouTube channel unedited (for posterity and laughs).
 
