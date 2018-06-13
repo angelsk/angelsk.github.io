@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# angelsk.games
 
-You can use the [editor on GitHub](https://github.com/angelsk/angelsk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+http://i.imgur.com/iMB6Iin.png
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who are you?
 
-### Markdown
+Hi, I'm Jo, otherwise known as angelsk.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Where you can find me
 
-```markdown
-Syntax highlighted code block
+* [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
+* [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
+* [Mixer](https://mixer.com/angelsk)
+* [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
+* [That Podcast Thing](http://www.thatpodcastthing.co.uk)
+* [Gaming gear](https://teespring.com/angel-on-xbox)
 
-# Header 1
-## Header 2
-### Header 3
+## Streaming Schedule
 
-- Bulleted
-- List
+I&'m aiming to stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and generally at some time most weekends; check my stream status for the next slot (and game). Please follow and sign up to be notified when I go live :) (And thanks for watching).
 
-1. Numbered
-2. List
+## But I missed it?!
 
-**Bold** and _Italic_ and `Code` text
+I shall be uploading any VoDs of the stream to my [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK) unedited (for posterity and laughs).
 
-[Link](url) and ![Image](src)
-```
+## Credits
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angelsk/angelsk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Beautiful art for myself drawn by [The Amazingly Talented Stephoodle](http://stephoodle.tumblr.com)
