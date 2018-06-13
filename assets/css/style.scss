@@ -12,3 +12,18 @@ $body-text-color: #606c71;
 $body-link-color: #1e6bb8;
 
 @import "{{ site.theme }}";
+
+.page-header {
+    background-image: url(/assets/images/logo-very-large.png);
+}
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; 
+}
