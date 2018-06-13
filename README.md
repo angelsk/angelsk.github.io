@@ -1,7 +1,3 @@
-# angelsk.games
-
-http://i.imgur.com/iMB6Iin.png
-
 ## Who are you?
 
 Hi, I'm Jo, otherwise known as angelsk.
