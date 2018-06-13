@@ -7,6 +7,11 @@ twitter:
   username: angelsk
   card: summary
 logo: /assets/images/logo-purple.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/logo-large-banner.png
 image: /assets/images/logo-large-banner.png
 lang: en_GB
 social:
