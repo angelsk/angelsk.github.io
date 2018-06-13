@@ -14,7 +14,21 @@ $body-link-color: #1e6bb8;
 @import "{{ site.theme }}";
 
 .page-header {
-    background-image: url(/assets/images/logo-very-large.png);
+  background-image: url(/assets/images/logo-very-large.png);
+  background-position: center;
+  background-size: cover;
+    
+  @include large {
+    padding: 10rem 6rem;
+  }
+
+  @include medium {
+    padding: 6rem 4rem;
+  }
+
+  @include small {
+    padding: 4rem 1rem;
+  }
 }
 
 .visuallyhidden {
