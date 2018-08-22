@@ -9,7 +9,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [Mixer](https://mixer.com/angelsk)
 * [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
 * [That Podcast Thing](http://www.thatpodcastthing.co.uk)
-* [Buy stuff with my logo on it](https://teespring.com/angel-on-xbox)
+* [Buy stuff to support my stream](https://teespring.com/stores/angel-on-xbox)
 
 ## Mixer Streaming Schedule
 
