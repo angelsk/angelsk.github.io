@@ -2,6 +2,8 @@
 
 Hi, I'm Jo, otherwise known as angelsk; and I play games
 
+![Bleep! Bloop!](/assets/images/bleep-bloop.png)
+
 ## Where you can find me
 
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
