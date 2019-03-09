@@ -9,6 +9,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [Mixer](https://mixer.com/angelsk)
+* [Twitter](https://twitter.com/angelsk)
 * [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
 * [That Podcast Thing](http://www.thatpodcastthing.co.uk)
 * [Buy stuff to support my stream](https://teespring.com/stores/angel-on-xbox)
