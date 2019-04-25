@@ -2,7 +2,7 @@
 
 Hi, I'm Jo, otherwise known as angelsk; and I play games
 
-![Bleep! Bloop!](/assets/images/bleep-bloop.png)
+![Bleep! Bloop!](/assets/images/bleep-bloop.png){:class="img-bleep-bloop"}
 
 ## Where you can find me
 
@@ -29,4 +29,4 @@ I shall be uploading any videos of my streams to my YouTube channel unedited (fo
 
 ## Credits
 
-Beautiful art drawn by [The Amazingly Talented Foxoodle](http://foxoodle.tumblr.com/) ((@stephoodle on Twitter)[https://twitter.com/stephoodle])
+Beautiful art drawn by [The Amazingly Talented Foxoodle](http://foxoodle.tumblr.com/) ([@stephoodle on Twitter](https://twitter.com/stephoodle))
