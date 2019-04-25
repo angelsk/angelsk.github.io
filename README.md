@@ -29,4 +29,4 @@ I shall be uploading any videos of my streams to my YouTube channel unedited (fo
 
 ## Credits
 
-Beautiful art drawn by [The Amazingly Talented Foxoodle](http://foxoodle.tumblr.com/)
+Beautiful art drawn by [The Amazingly Talented Foxoodle](http://foxoodle.tumblr.com/) ((@stephoodle on Twitter)[https://twitter.com/stephoodle])
