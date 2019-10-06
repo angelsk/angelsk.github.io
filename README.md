@@ -14,6 +14,8 @@ I will be running a giveaway for **3 months of Xbox Game Pass Ultimate** near th
 
 ## Where you can find me
 
+![Bleep! Bloop!](/assets/images/bleep-bloop.png){:class="img-bleep-bloop"}
+
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog)
@@ -23,8 +25,6 @@ I will be running a giveaway for **3 months of Xbox Game Pass Ultimate** near th
 * [That Podcast Thing](http://www.thatpodcastthing.co.uk)
 * [Buy stuff to support my stream](https://teespring.com/stores/angel-on-xbox)
 * [StreamJar tip page](https://angelsk.streamjar.gg)
-
-![Bleep! Bloop!](/assets/images/bleep-bloop.png){:class="img-bleep-bloop"}
 
 ## Mixer Streaming Schedule
 
