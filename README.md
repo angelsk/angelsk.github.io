@@ -10,7 +10,15 @@ This is the first year I'm doing Extra Life - and I've pledged to play games and
 
 Tune in at 8am (UK time) on Saturday November 2nd 2019 to see me playing games for 24 hours solid for charity.
 
+I have an approximate schedule for the day: **8am** - Zero Escape: The Nonary Games; **11am** - Chariot; **1pm** - We Were Here Too (co-stream); **4pm** - Cat Quest 2; **8pm** - Overcooked 2 (co-stream); **after midnight** - Afterparty. And we'll see how that goes...
+
+Feel free to make a game suggestion when you donate.
+
 I will be running a giveaway for **3 months of Xbox Game Pass Ultimate** near the end of the stream, so let me know your Xbox gamertag when you donate to be entered for a chance to win :) (You get 1 entry per $10 donation)
+
+If I hit my $500 goal, I will run a **second giveaway** for another 3 months of Xbox Game Pass Ultimate
+
+I will also run a game giveaway during the stream - you just need to be following to enter that one
 
 ![Bleep! Bloop!](/assets/images/bleep-bloop.png){:class="img-bleep-bloop"}
 
