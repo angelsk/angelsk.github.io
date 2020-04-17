@@ -16,6 +16,8 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [Buy stuff to support my stream](https://teespring.com/stores/angel-on-xbox)
 * [StreamJar tip page](https://angelsk.streamjar.gg)
 
+And I'll be doing Extra Life again on November 7th 2020: [Donate here](https://www.extra-life.org/participant/angelsk)
+
 ## Mixer Streaming Schedule
 
 I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and generally at some time most weekends; check my stream status for the next slot (and game). 
