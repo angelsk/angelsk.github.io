@@ -9,7 +9,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog)
-* [Mixer](https://mixer.com/angelsk)
+* [Twitch](https://www.twitch.tv/angelsk_jo)
 * [Twitter](https://twitter.com/angelsk)
 * [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
 * [That Podcast Thing](http://www.thatpodcastthing.co.uk) (on infinite hiatus)
@@ -18,7 +18,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 And I'll be doing Extra Life again on November 7th 2020: [Donate here](https://www.extra-life.org/participant/angelsk)
 
-## Mixer Streaming Schedule
+## Streaming Schedule
 
 I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and generally at some time most weekends; check my stream status for the next slot (and game). 
 
