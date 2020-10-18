@@ -14,9 +14,21 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
 * [That Podcast Thing](https://twitter.com/podcast_thing) (on infinite hiatus)
 * [Buy stuff to support my stream](https://teespring.com/stores/angel-on-xbox)
-* [StreamJar tip page](https://angelsk.streamjar.gg)
+* [Stream tip page](https://rainmaker.gg/angelsk/tip)
 
-And I'll be doing Extra Life again on November 7th 2020: [Donate here](https://www.extra-life.org/participant/angelsk)
+## ExtraLife 2020
+
+<iframe src="https://www.extra-life.org/index.cfm?fuseaction=widgets.300x250thermo&participantID=408870" width="302" height="252" frameborder="0" scrolling="no" style="float: right; margin-left: 20px;"><a href="https://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=408870">Make a Donation!</a></iframe>
+
+This is the second year I'm doing Extra Life - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
+
+Tune in at 8am (UK time) on Saturday November 7th 2020 to see me playing games for 24 hours solid for charity.	
+
+I have an approximate schedule for the day: TO BE DECIDED, including **8pm** - Overcooked 2 (multiplayer); **at some point** Day of the Tentacle.
+
+Feel free to make a game suggestion when you donate.	
+
+I am hoping to run some game giveaways during the stream - you just need to be following to enter those
 
 ## Streaming Schedule
 
