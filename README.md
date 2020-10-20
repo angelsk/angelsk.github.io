@@ -13,8 +13,9 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [Twitter](https://twitter.com/angelsk)
 * [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
 * [That Podcast Thing](https://twitter.com/podcast_thing) (on infinite hiatus)
-* [Buy stuff to support my stream](https://teespring.com/stores/angel-on-xbox)
+* [Buy merchandise to support my stream](https://teespring.com/stores/angel-on-xbox)
 * [Stream tip page](https://rainmaker.gg/angelsk/tip)
+* Contact me directly on **games@jocarter.co.uk**
 
 ## ExtraLife 2020
 
