@@ -25,7 +25,12 @@ This is the second year I'm doing Extra Life - and I've pledged to play games an
 
 Tune in at 8am (UK time) on Saturday November 7th 2020 to see me playing games for 24 hours solid for charity.	
 
-I have an approximate schedule for the day: TO BE DECIDED, including **8pm** - Overcooked 2 (multiplayer); **at some point** Day of the Tentacle.
+I have an approximate schedule for the day: 
+* Overcooked 2 multiplayer co-operative session at **8pm**
+* Day of the Tentacle Remastered
+* Storytime with Jo at **midnight (ish)**
+* Half an hour of "Please Don't Touch Anything" - for the completion
+* And a medley of other games
 
 Feel free to make a game suggestion when you donate.	
 
