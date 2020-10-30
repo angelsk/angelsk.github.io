@@ -10,6 +10,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog)
 * [Streaming on Twitch](https://www.twitch.tv/angelsk_jo)
+* [Join my Discord community](https://discord.gg/aftQgp4)
 * [Twitter](https://twitter.com/angelsk)
 * [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
 * [That Podcast Thing](https://twitter.com/podcast_thing) (on infinite hiatus)
