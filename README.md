@@ -24,7 +24,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 This is the third year I'm doing Extra Life - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
 
-Tune in at TBD (UK time) on Saturday November 6th 2021 to see me playing games for 24 hours solid for charity.	
+Tune in at TBD (UK time) on **Saturday November 6th 2021** to see me playing games for 24 hours solid for charity.	
 
 I have an approximate schedule for the day: TBD
 
