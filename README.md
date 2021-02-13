@@ -20,18 +20,13 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 ## #ExtraLife 2020
 
-<iframe src="https://www.extra-life.org/index.cfm?fuseaction=widgets.300x250thermo&participantID=408870" width="302" height="252" frameborder="0" scrolling="no" style="float: right; margin-left: 20px;"><a href="https://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=408870">Make a Donation!</a></iframe>
+<iframe src="https://www.extra-life.org/index.cfm?fuseaction=widgets.300x250thermo&participantID=408870" width="302" height="252" frameborder="0" scrolling="no" style="float: right; margin-left: 20px;"><a href="https://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=449843">Make a Donation!</a></iframe>
 
-This is the second year I'm doing Extra Life - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
+This is the third year I'm doing Extra Life - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
 
-Tune in at 8am (UK time) on Saturday November 7th 2020 to see me playing games for 24 hours solid for charity.	
+Tune in at TBD (UK time) on Saturday November 6th 2021 to see me playing games for 24 hours solid for charity.	
 
-I have an approximate schedule for the day: 
-* Overcooked 2 multiplayer co-operative session at **8pm**
-* Day of the Tentacle Remastered
-* Storytime with Jo at **midnight (ish)**
-* Half an hour of "Please Don't Touch Anything" - for the completion
-* And a medley of other games
+I have an approximate schedule for the day: TBD
 
 Feel free to make a game suggestion when you donate.	
 
