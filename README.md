@@ -22,7 +22,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 <iframe src="https://www.extra-life.org/index.cfm?fuseaction=widgets.300x250thermo&participantID=449843" width="302" height="252" frameborder="0" scrolling="no" style="float: right; margin-left: 20px;"><a href="https://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=449843">Make a Donation!</a></iframe>
 
-This is the third year I'm doing Extra Life - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
+This is the third year I'm doing **Extra Life** - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
 
 Tune in at TBD (UK time) on **Saturday November 6th 2021** to see me playing games for 24 hours solid for charity.	
 
