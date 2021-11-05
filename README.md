@@ -20,13 +20,11 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 ## #ExtraLife 2020
 
-<iframe src="https://www.extra-life.org/index.cfm?fuseaction=widgets.300x250thermo&participantID=449843" width="302" height="252" frameborder="0" scrolling="no" style="float: right; margin-left: 20px;"><a href="https://www.extra-life.org/index.cfm?fuseaction=donorDrive.participant&participantID=449843">Make a Donation!</a></iframe>
+This is the <a href="https://www.extra-life.org/participant/angelsk">third year I'm doing **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
 
-This is the third year I'm doing **Extra Life** - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
+Tune in at 10pm (UK time) on **Friday November 5th 2021** to see me playing games for 24 hours solid for charity.	
 
-Tune in at TBD (UK time) on **Saturday November 6th 2021** to see me playing games for 24 hours solid for charity.	
-
-I have an approximate schedule for the day: TBD
+I have an approximate schedule for the day, which you can see on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
 
 Feel free to make a game suggestion when you donate.	
 
@@ -34,7 +32,7 @@ I am hoping to run some game giveaways during the stream - you just need to be f
 
 ## Streaming Schedule
 
-I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and generally at some time most weekends; check my stream status for the next slot (and game). 
+I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at different times at the weekends; check my stream schedule for the next slot (and game). 
 
 I'm a huge fan of the ID@Xbox program, and regularly stream games from there - along with some staples (mainly Point and Click or Puzzle games).
 
