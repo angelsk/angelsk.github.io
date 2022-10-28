@@ -7,7 +7,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 ## Where you can find me
 
 * [Streaming on Twitch](https://www.twitch.tv/angelsk_jo)
-* [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK)
+* [YouTube channel](https://www.youtube.com/@angelsk_Jo)
 * [Join my Discord community](https://discord.gg/aftQgp4)
 * [Twitter](https://twitter.com/angelsk)
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
@@ -22,9 +22,9 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 This is the <a href="https://www.extra-life.org/participant/angelsk">4th year I'm doing **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
 
-Tune in at 10pm (UK time) on **Friday November 4th 2022** to see me playing games for 24 hours solid for charity.	
+Tune in at 10pm (UK time) on **Friday November 4th 2022** to see me playing games for 24 hours solid for charity (times in your timezone can be seen on my donation page).	
 
-I do not yet have an approximate schedule for the day, but you can make suggestions on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
+I have a plan for the stream which you can see or make suggestion for on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
 
 ## Streaming Schedule
 
@@ -32,14 +32,13 @@ I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at 3pm (UK 
 
 I'm a huge fan of the ID@Xbox program, and regularly stream games from there - along with some staples (mainly Point and Click, Visual Novel or Puzzle games).
 
-I do a regular "Storytime with Jo" segement as part of my streams in a week, where I do voice overs for games that don't have them.  [Catch up with them on my YouTube channel](https://www.youtube.com/watch?v=FesQWXTZRwc&list=PL6RlkpVAiVLUZ7hMrjzQRWCLSrwGrkRCz&ab_channel=JoCarter
-).
+I do a regular "Storytime with Jo" segement as part of my streams in a week, where I do voice overs for games that don't have them. [Catch up with them on my YouTube channel](https://www.youtube.com/playlist?list=PL6RlkpVAiVLUZ7hMrjzQRWCLSrwGrkRCz).
 
 Please follow/ subscribe and sign up to be notified when I go live :) (And thanks for watching).
 
 ### But I missed it?!
 
-I upload all videos of my streams to my [YouTube channel](https://www.youtube.com/c/JoCarterAngelSK) unedited (for posterity and laughs).
+I upload all videos of my streams to my [YouTube channel](https://www.youtube.com/@angelsk_Jo) unedited (for posterity and laughs).
 
 ## Credits
 
