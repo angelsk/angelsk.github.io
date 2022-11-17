@@ -21,11 +21,11 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 ## #ExtraLife 2022
 
-This is the <a href="https://www.extra-life.org/participant/angelsk">4th year I'm doing **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of a children's hospital in Toronto.	
+This is the <a href="https://www.extra-life.org/participant/angelsk">4th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
 
-Tune in at 10pm (UK time) on **Friday November 4th 2022** to see me playing games for 24 hours solid for charity (times in your timezone can be seen on my donation page).	
+I played games for 24 hours solid from 10pm (UK time) on **Friday November 4th 2022** for charity (times in your timezone can be seen on my donation page).	
 
-I have a plan for the stream which you can see or make suggestion for on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
+I will be doing a bit of a fundraiser on my birthday in December, but you can still donate until the end of the year on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
 
 ## Streaming Schedule
 
