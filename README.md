@@ -15,6 +15,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog) (not been updated in a while, sorry)
 * [That Podcast Thing](https://twitter.com/podcast_thing) (on infinite hiatus)
 * [Buy merch to support my stream](https://teespring.com/stores/angel-on-xbox)
+* [My Amazon Wishlist](https://www.amazon.co.uk/wishlist/3V8TFOVC1B8Q1) - no obligations
 * [Stream tip page](https://rainmaker.gg/angelsk/tip)
 * Contact me directly on **games@jocarter.co.uk**
 
