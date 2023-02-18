@@ -10,7 +10,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [YouTube channel](https://www.youtube.com/@angelsk_Jo)
 * [Join my Discord community](https://discord.gg/aftQgp4)
 * [Twitter](https://twitter.com/angelsk)
-* <a rel="me" href="https://mastodon.lol/@angelsk">Mastodon</a>
+* <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a>
 * angelsk on Hive (no web link)
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
