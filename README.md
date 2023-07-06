@@ -10,6 +10,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [YouTube channel](https://www.youtube.com/@angelsk_Jo)
 * [Join my Discord community](https://discord.gg/aftQgp4)
 * [Twitter](https://twitter.com/angelsk)
+* [Threads](https://www.threads.net/@angelsk)
 * [Bluesky](https://bsky.app/profile/angelsk.bsky.social)
 * <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a>
 * angelsk on Hive (no web link)
