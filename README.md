@@ -8,12 +8,10 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 
 * [Streaming on Twitch](https://www.twitch.tv/angelsk_jo)
 * [YouTube channel](https://www.youtube.com/@angelsk_Jo)
+* [TikTok channel](https://www.tiktok.com/@angelsk_Jo)
+* [Instagram](https://www.instagram.com/angelsk/)
 * [Join my Discord community](https://discord.gg/aftQgp4)
-* [Twitter](https://twitter.com/angelsk)
-* [Threads](https://www.threads.net/@angelsk)
-* [Bluesky](https://bsky.app/profile/angelsk.bsky.social)
-* <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a>
-* angelsk on Hive (no web link)
+* On various social platforms: [Twitter](https://twitter.com/angelsk) | [Threads](https://www.threads.net/@angelsk) | [Bluesky](https://bsky.app/profile/angelsk.bsky.social | <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a> | @angelsk on Hive
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog) (not been updated in a while, sorry)
