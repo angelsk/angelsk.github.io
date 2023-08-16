@@ -1,18 +1,18 @@
 # Angel on Xbox
 
-Hi, I'm Jo, otherwise known as angelsk; and I play games
+Hi, I'm Jo, otherwise known as angelsk; and I play games.  I'm a variety streamer that likes doing voices in games; and am a big fan of cats, stories and interesting mechanics in games.  I'm an ID@Xbox moderator so am often found JoCasing ID@Xbox indie games on my channel.
 
 ![Bleep! Bloop!](/assets/images/bleep-bloop.png){:class="img-bleep-bloop"}
 
 ## Where you can find me
 
-* [Streaming on Twitch](https://www.twitch.tv/angelsk_jo)
-* [YouTube channel](https://www.youtube.com/@angelsk_Jo)
-* [TikTok channel](https://www.tiktok.com/@angelsk_Jo)
-* [Instagram](https://www.instagram.com/angelsk/)
-* [Join my Discord community](https://discord.gg/aftQgp4)
+* [Streaming on Twitch](https://www.twitch.tv/angelsk_jo) <- regular streams
+* [YouTube channel](https://www.youtube.com/@angelsk_Jo) <- shorts AND stream VODs
+* [TikTok channel](https://www.tiktok.com/@angelsk_Jo) <- funny Twitch clips
+* [Instagram](https://www.instagram.com/angelsk/) <- Twitch clips, cat photos and rainbow stuff
+* [Join my Discord community](https://discord.gg/aftQgp4) <- we are friendly
 * On various social platforms: [Twitter](https://twitter.com/angelsk) \ [Threads](https://www.threads.net/@angelsk) \ [Bluesky](https://bsky.app/profile/angelsk.bsky.social) \ <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a> \ [@angelsk on Hive](https://hive.page.link/7bx4)
-* [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk)
+* [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk) (also an Xbox Ambassador)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog) (not been updated in a while, sorry)
 * [That Podcast Thing](https://twitter.com/podcast_thing) (on infinite hiatus)
@@ -33,9 +33,9 @@ You can donate at any time until the end of the year on my <a href="https://www.
 
 I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at 3pm (UK time) times at the weekends (with a weekly co-stream alternating between Tuesday and Wednesday at 8pm); check my stream schedule on [Twitch](https://www.twitch.tv/angelsk_jo) for the next slot. 
 
-I'm a huge fan of the ID@Xbox program, and regularly stream games from there - along with some staples (mainly Point and Click, Visual Novel or Puzzle games).
+I'm a huge fan of (and a moderator for) the ID@Xbox program, and regularly stream games from there - along with some staples (mainly Point and Click, Visual Novel or Puzzle games).
 
-I do a regular "Storytime with Jo" segement as part of my streams in a week, where I do voice overs for games that don't have them. [Catch up with them on my YouTube channel](https://www.youtube.com/playlist?list=PL6RlkpVAiVLUZ7hMrjzQRWCLSrwGrkRCz).
+I do a regular "Storytime with Jo" segment as part of my streams in a week, where I do voice overs for games that don't have them. [Catch up with them on my YouTube channel](https://www.youtube.com/playlist?list=PL6RlkpVAiVLUZ7hMrjzQRWCLSrwGrkRCz).
 
 Please follow/ subscribe and sign up to be notified when I go live :) (And thanks for watching).
 
