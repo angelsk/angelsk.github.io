@@ -21,17 +21,17 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games
 * [Stream tip page](https://rainmaker.gg/angelsk/tip)
 * Contact me directly on **games@jocarter.co.uk**
 
-## #ExtraLife 2022
+## #ExtraLife 2023
 
-This is the <a href="https://www.extra-life.org/participant/angelsk">4th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
+This is the <a href="https://www.extra-life.org/participant/angelsk">5th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
 
-I played games for 24 hours solid from 10pm (UK time) on **Friday November 4th 2022** for charity (times in your timezone can be seen on my donation page).	
+I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 3rd 2023** for charity (times in your timezone can be seen on my donation page).	
 
-I will be doing a bit of a fundraiser on my birthday in December, but you can still donate until the end of the year on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
+You can donate at any time until the end of the year on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
 
 ## Streaming Schedule
 
-I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at 3pm (UK time) times at the weekends; check my stream schedule on [Twitch](https://www.twitch.tv/angelsk_jo) for the next slot. 
+I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at 3pm (UK time) times at the weekends (with a weekly co-stream alternating between Tuesday and Wednesday at 8pm); check my stream schedule on [Twitch](https://www.twitch.tv/angelsk_jo) for the next slot. 
 
 I'm a huge fan of the ID@Xbox program, and regularly stream games from there - along with some staples (mainly Point and Click, Visual Novel or Puzzle games).
 
