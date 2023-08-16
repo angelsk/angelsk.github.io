@@ -1,6 +1,6 @@
 # Angel on Xbox
 
-Hi, I'm Jo, otherwise known as angelsk; and I play games.  I'm a variety streamer that likes doing voices in games; and am a big fan of cats, stories and interesting mechanics in games.  I'm an ID@Xbox moderator so am often found JoCasing ID@Xbox indie games on my channel.
+Hi, I'm Jo, otherwise known as angelsk; and I play games.  I'm a variety streamer that likes doing voice overs; and am a big fan of cats, stories and interesting mechanics in games.  I'm an ID@Xbox moderator so am often found #JoCasing ID@Xbox indie games on my channel.
 
 ![Bleep! Bloop!](/assets/images/bleep-bloop.png){:class="img-bleep-bloop"}
 
