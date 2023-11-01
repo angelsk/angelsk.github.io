@@ -21,6 +21,8 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games.  I'm a variety streame
 * [Stream tip page](https://rainmaker.gg/angelsk/tip)
 * Contact me directly on **games@jocarter.co.uk**
 
+Note, I'm also Head of Engineering at Preloaded - so if you're in the gaming industry feel free to connect to me on [LinkedIn](https://www.linkedin.com/in/jocarter/).
+
 ## #ExtraLife 2023
 
 This is the <a href="https://www.extra-life.org/participant/angelsk">5th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
