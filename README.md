@@ -25,9 +25,9 @@ Note, I'm also Head of Engineering at Preloaded - so if you're in the gaming ind
 
 ## #ExtraLife 2023
 
-This is the <a href="https://www.extra-life.org/participant/angelsk">5th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
+This is the <a href="https://www.extra-life.org/participant/angelsk">6th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
 
-I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 3rd 2023** for charity (times in your timezone can be seen on my donation page).	
+I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 1st 2024** for charity (times in your timezone can be seen on my donation page).	
 
 You can donate at any time until the end of the year on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
 
@@ -47,5 +47,5 @@ I upload all videos of my streams to my [YouTube channel](https://www.youtube.co
 
 ## Credits
 
-Beautiful stream art drawn by [The Amazingly Talented Foxoodle](http://foxoodle.tumblr.com/) ([@stephoodle on Twitter](https://twitter.com/stephoodle)).  
+Beautiful stream art drawn by [Foxoodle](http://foxoodle.tumblr.com/) ([@stephoodle on Twitter](https://twitter.com/stephoodle)).  
 Emotes by [The Amazingly Talented Kara](https://twitch.tv/karaunscripted).
