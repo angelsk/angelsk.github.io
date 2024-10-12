@@ -25,7 +25,7 @@ Or if you'd like to connect to me on [LinkedIn](https://www.linkedin.com/in/joca
 
 ## #ExtraLife 2024
 
-This is the [6th year I've done **Extra Life**](https://www.extra-life.org/participant/angelsk) - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
+This is the [6th year I've done **Extra Life**](https://www.extra-life.org/participant/angelsk) - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto. I've raised $10,000 in the previous 5 years for charity, and will be raising more in the future.
 
 I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 1st 2024** for charity ([stream time in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Extra+Life+2024+-+angelsk_Jo&iso=20241101T22&p1=136&ah=23&am=55)).	
 
