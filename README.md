@@ -21,15 +21,15 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games.  I'm a variety streame
 * [Stream tip page](https://rainmaker.gg/angelsk/tip)
 * Contact me directly on **games@jocarter.co.uk**
 
-Note, I'm also Head of Engineering at Preloaded - so if you're in the gaming industry feel free to connect to me on [LinkedIn](https://www.linkedin.com/in/jocarter/).
+Or if you'd like to connect to me on [LinkedIn](https://www.linkedin.com/in/jocarter/).
 
-## #ExtraLife 2023
+## #ExtraLife 2024
 
-This is the <a href="https://www.extra-life.org/participant/angelsk">6th year I've done **Extra Life**</a> - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
+This is the [6th year I've done **Extra Life**](https://www.extra-life.org/participant/angelsk) - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto.	
 
-I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 1st 2024** for charity (times in your timezone can be seen on my donation page).	
+I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 1st 2024** for charity ([stream tims in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Extra+Life+2024+-+angelsk_Jo&iso=20241101T22&p1=136&ah=23&am=55)).	
 
-You can donate at any time until the end of the year on my <a href="https://www.extra-life.org/participant/angelsk">donation page</a>.
+You can donate at any time until the end of the year on my [donation page](https://www.extra-life.org/participant/angelsk).
 
 ## Streaming Schedule
 
@@ -47,5 +47,5 @@ I upload all videos of my streams to my [YouTube channel](https://www.youtube.co
 
 ## Credits
 
-Beautiful stream art drawn by [Foxoodle](http://foxoodle.tumblr.com/) ([@stephoodle on Twitter](https://twitter.com/stephoodle)).  
-Emotes by [The Amazingly Talented Kara](https://twitch.tv/karaunscripted).
+Stream art drawn by [Foxoodle](http://foxoodle.tumblr.com/) ([@stephoodle on Twitter](https://twitter.com/stephoodle)).  
+Emotes drawn by [The Amazingly Talented Kara](https://twitch.tv/karaunscripted).
