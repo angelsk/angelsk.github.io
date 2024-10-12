@@ -33,7 +33,7 @@ You can donate at any time until the end of the year on my [donation page](https
 
 ## Streaming Schedule
 
-I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at 3pm (UK time) times at the weekends (with a weekly co-stream alternating between Tuesday and Wednesday at 8pm); check my stream schedule on [Twitch](https://www.twitch.tv/angelsk_jo) for the next slot. 
+I stream "regularly" on Tuesdays and Thursdays at 8pm (UK time); and at 3pm (UK time) times at the weekends; check my stream schedule on [Twitch](https://www.twitch.tv/angelsk_jo) for the next slot. 
 
 I'm a huge fan of (and a moderator for) the ID@Xbox program, and regularly stream games from there - along with some staples (mainly Point and Click, Visual Novel or Puzzle games).
 
