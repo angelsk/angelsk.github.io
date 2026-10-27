@@ -11,7 +11,7 @@ Hi, I'm Jo, otherwise known as angelsk; and I play games.  I'm a variety streame
 * [TikTok channel](https://www.tiktok.com/@angelsk_Jo) <- funny Twitch clips
 * [Instagram](https://www.instagram.com/angelsk/) <- Twitch clips, cat photos and rainbow stuff
 * [Join my Discord community](https://discord.gg/aftQgp4) <- we are friendly
-* On various social platforms: [Threads](https://www.threads.net/@angelsk) \ [Bluesky](https://bsky.app/profile/angelsk.bsky.social) \ ([Twitter](https://twitter.com/angelsk) (deprecated) \ <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a> (unused) \ [@angelsk on Hive](https://hive.page.link/7bx4) (unused))
+* On various social platforms: [Threads](https://www.threads.net/@angelsk) \ [Bluesky](https://bsky.app/profile/angelsk.bsky.social) (unused) \ ([Twitter](https://twitter.com/angelsk) (deprecated) \ <a rel="me" href="https://toot.cat/@angelsk">Mastodon</a> (unused) \ [@angelsk on Hive](https://hive.page.link/7bx4) (unused))
 * [Xbox](https://account.xbox.com/en-GB/Profile?gamerTag=angelsk) (also an Xbox Ambassador)
 * [TrueAchievements](https://www.trueachievements.com/gamer/angelsk)
 * [My gaming blog](https://www.trueachievements.com/gamer/angelsk/blog) (not been updated in a while, sorry)
@@ -25,9 +25,9 @@ Or if you'd like to connect to me on [LinkedIn](https://www.linkedin.com/in/joca
 
 ## #ExtraLife 2025
 
-This is the [7th year I've done **Extra Life**](https://www.extra-life.org/participant/angelsk) - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto. I've raised $13,275 in the previous 6 years for charity, and will be raising more in the future.
+This is the [8th year I've done **Extra Life**](https://www.extra-life.org/participant/angelsk) - and I've pledged to play games and raise funds for kids for the international program of the SickKids Foundation in Toronto. I've raised $18,380 in the previous 7 years for charity, and will be raising more in the future.
 
-I'm playing games for 24 hours solid from 10pm (UK time) on **Friday November 7th 2025** for charity ([stream time in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Extra+Life+2025+-+angelsk_Jo&iso=20251107T22&p1=136&ah=23&am=59)).	
+I'm playing games for 24 hours solid from 9pm (UK time) on **Friday November 6th 2026** for charity ([stream time in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Extra+Life+2026+-+angelsk_Jo&iso=20261106T21&p1=136&ah=23&am=59)).	
 
 You can donate at any time until the end of the year on my [donation page](https://www.extra-life.org/participant/angelsk).
 
